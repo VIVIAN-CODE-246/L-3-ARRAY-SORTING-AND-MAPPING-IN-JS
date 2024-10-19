@@ -1,4 +1,4 @@
-let  numbers = [4,20,9,5,7]
+let  numbers = [2,5,90,7,10]
 numbers.sort(descending)
 console.log(numbers)
 
@@ -24,5 +24,5 @@ arr.sort()
 uppercasedarray = arr.map (capitals)
 console.log (uppercasedarray)
 
-let result = eval(100**0.5)
+let result = eval(400**0.5)
 console.log(result)
